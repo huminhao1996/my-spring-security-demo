@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="form-login" />
         <module name="spring-security-session" />
+        <module name="spring-security-remember-me" />
         <module name="http-basic" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/form-login" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/http-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-remember-me" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-security-session" charset="UTF-8" />
   </component>
 </project>
