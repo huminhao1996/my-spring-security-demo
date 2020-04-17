@@ -12,7 +12,8 @@
         <module>http-basic</module>
         <module>form-login</module>
         <module>spring-security-session</module>
-        <module>spring-security-remeber-me</module>
+        <module>spring-security-remember-me</module>
+        <module>spring-security-kaptcha</module>
     </modules>
 
 
