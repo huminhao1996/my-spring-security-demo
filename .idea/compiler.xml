@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="http-basic" />
-        <module name="form-login" />
-        <module name="spring-security-session" />
-        <module name="spring-security-kaptcha" />
         <module name="spring-security-remember-me" />
+        <module name="spring-security-sms-code" />
+        <module name="http-basic" />
+        <module name="spring-security-session" />
+        <module name="form-login" />
+        <module name="spring-security-kaptcha" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
