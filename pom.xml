@@ -15,6 +15,7 @@
         <module>spring-security-remember-me</module>
         <module>spring-security-kaptcha</module>
         <module>spring-security-sms-code</module>
+        <module>spring-security-jwt</module>
     </modules>
 
     <build>

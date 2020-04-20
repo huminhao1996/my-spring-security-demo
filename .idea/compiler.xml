@@ -11,6 +11,7 @@
         <module name="http-basic" />
         <module name="spring-security-session" />
         <module name="form-login" />
+        <module name="spring-security-jwt" />
         <module name="spring-security-kaptcha" />
       </profile>
     </annotationProcessing>
