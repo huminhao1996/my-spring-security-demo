@@ -4,8 +4,3 @@
 文档地址:https://www.kancloud.cn/hanxt/springsecurity/1472507
 
 案例展示:
-
-![image-20200421083558039](C:\Users\hmh\AppData\Roaming\Typora\typora-user-images\image-20200421083558039.png)
-
-![image-20200421083619025](C:\Users\hmh\AppData\Roaming\Typora\typora-user-images\image-20200421083619025.png)
-
